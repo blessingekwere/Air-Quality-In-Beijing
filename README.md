@@ -106,7 +106,9 @@ collaborating with other countries and international organizations to share best
 Promoting renewable energy sources and phasing out coal-based energy production.
 
 Finally, while there have been some positive developments in improving air quality in Beijing, there is still much work to be done to address the issue. It will require the commitment and cooperation of stakeholders, from government and industry to individuals, to make a meaningful difference in reducing air pollution and improving the health and well being of the city's residents.
-Kindly find the link to the Power BI report here
+
+Kindly find the link to the Power BI report [here](https://drive.google.com/file/d/1uxzMhN4wOh4V_5_slGPOB_PZ7uqQWCDk/view?usp=share_link)
+
 Thank you for reading this article. I sincerely appreciate
 
 Kindly share your thoughts, recommendations and comments.
