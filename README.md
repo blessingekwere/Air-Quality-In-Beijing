@@ -176,7 +176,7 @@ Kindly find the link to the Power BI report [here](https://drive.google.com/file
 Thank you for reading this article. I sincerely appreciate
 
 Kindly share your thoughts, recommendations and comments.
-💜:
+💜
 
 
 
