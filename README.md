@@ -28,19 +28,19 @@ It has been reported that air quality categories (AQC) based on visibility and 6
 
 ## Data Sourcing
 The data was downloaded in a comma separated value (csv) format from a website. It is made up of 13 columns and 43,824 rows. The link to the dataset can be found here. The columns are
-. No - Row Number
-. Year - Year of the data in the row
-. Month - Month of the data in the row
-. Day - Day of the data in the row
-. Hour - Hour of the data in the row
-. pm2.5 - pm2.5 concentration
-. DEWP - Dew Point
-. TEMP - Temperature
-. PRES - Pressure (hpa)
-. cbwd - Combined Wind Direction
-. Iws - Cumulated wind speed (m/s)
-. Is - Cumulated hours of snow (hours)
-. Ir - Cumulated hours of rain (hours)
+* No - Row Number
+* Year - Year of the data in the row
+* Month - Month of the data in the row
+* Day - Day of the data in the row
+* Hour - Hour of the data in the row
+* pm2.5 - pm2.5 concentration
+* DEWP - Dew Point
+* TEMP - Temperature
+* PRES - Pressure (hpa)
+* cbwd - Combined Wind Direction
+* Iws - Cumulated wind speed (m/s)
+* Is - Cumulated hours of snow (hours)
+* Ir - Cumulated hours of rain (hours)
 The link to the dataset can be found [here](https://archive.ics.uci.edu/ml/datasets/Beijing+PM2.5+Data)
 
 ## Problem Statement
