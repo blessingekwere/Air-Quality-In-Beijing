@@ -110,7 +110,7 @@ June to August was called Summer.
 
 September to November was called Autumn.
 
-* After this, the data was then loaded into Power BI for further analysis and Power query was 
+* After this, the data was then loaded into Power BI for further analysis and Power query editor was closed
 
 ## Analysis and Visualization
 
