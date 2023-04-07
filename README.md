@@ -121,7 +121,7 @@ September to November was called Autumn.
 
 * Comparing the four combined wind directions, it can be seen that North West had the highest number of hours of rainfall with a total of 3755 hours, followed by South East with a total of 1792 and North East and South West had a total of 1642 and 1353 hours of rainfall respectively.
 
-![](https://github.com/blessingekwere/Air-Quality-In-Beijing/blob/main/Picture_3.png)
+![](https://github.com/blessingekwere/Air-Quality-In-Beijing/blob/main/pics_3.png)
 ###### Average PM2.5 by Combined Wind Direction
 
 * Comparing the total amount of PM2.5 across the years, January 2013 had the highest amount of PM2.5 with about 191.97 µg/m3 and January 2011 recorded the lowest amount of pm2.5 with 40.55 µg/m3.
