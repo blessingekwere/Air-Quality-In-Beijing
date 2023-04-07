@@ -69,6 +69,7 @@ The skills recorded in the course of carrying out this project are
 *  I also used the conditional column command to add a column named "season". I also used the conditional column command to add a column named "season".
 
 * The season column was grouped as follows:
+
 December to February was called winter.
 
 March to May was called Spring.
@@ -109,7 +110,7 @@ Kindly find the link to the Power BI report here
 Thank you for reading this article. I sincerely appreciate
 
 Kindly share your thoughts, recommendations and comments.
-:Hugs:
+: Hugs :
 
 
 
