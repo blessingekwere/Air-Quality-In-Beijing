@@ -110,7 +110,7 @@ Kindly find the link to the Power BI report here
 Thank you for reading this article. I sincerely appreciate
 
 Kindly share your thoughts, recommendations and comments.
-: Hugs :
+: purple_heart :
 
 
 
