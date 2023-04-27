@@ -171,7 +171,7 @@ In conclusion, Beijing has been known to face severe air quality problems due to
 
 Finally, while there have been some positive developments in improving air quality in Beijing, there is still much work to be done to address the issue. It will require the commitment and cooperation of stakeholders, from government and industry to individuals, to make a meaningful difference in reducing air pollution and improving the health and well being of the city's residents.
 
-Kindly find the link to the Power BI report [here](https://drive.google.com/file/d/1uxzMhN4wOh4V_5_slGPOB_PZ7uqQWCDk/view?usp=share_link)
+Kindly find the link to the Power BI report [here](https://app.powerbi.com/groups/me/reports/1f3a7b1d-1963-4a54-9540-3ba28936f6b6/ReportSection)
 
 Thank you for reading this article. I sincerely appreciate
 
