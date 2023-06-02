@@ -158,6 +158,8 @@ September to November was called Autumn.
 ![](https://github.com/blessingekwere/Air-Quality-In-Beijing/blob/main/Air%20Quality_page-0001.jpg)
 ###### Air Quality In Beijing Dashboard
 
+Kindly find the link to the Power BI report [here](https://app.powerbi.com/view?r=eyJrIjoiY2FkN2VhZTctYTliMC00NmIwLWJkNDgtYzljZTdjYjBhM2E1IiwidCI6IjMwMDM2MmQ4LTZkNmItNGY5ZC04YjQwLTUwZjhkNjkxNmVjZCJ9)
+
 
 ## Conclusion and Recommendation
 In conclusion, Beijing has been known to face severe air quality problems due to various activities such as industrial activities, transportation and coal-based energy production. To address these problems a few recommendations I will make are:
@@ -171,7 +173,7 @@ In conclusion, Beijing has been known to face severe air quality problems due to
 
 Finally, while there have been some positive developments in improving air quality in Beijing, there is still much work to be done to address the issue. It will require the commitment and cooperation of stakeholders, from government and industry to individuals, to make a meaningful difference in reducing air pollution and improving the health and well being of the city's residents.
 
-Kindly find the link to the Power BI report [here](https://app.powerbi.com/groups/me/reports/1f3a7b1d-1963-4a54-9540-3ba28936f6b6/ReportSection)
+
 
 Thank you for reading this article. I sincerely appreciate
 
